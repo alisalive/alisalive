@@ -151,6 +151,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- 📄 [Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com)
+- 📄 [VulnHub — Warzone: 3 (Exogen) Write-Up](https://alisalive.medium.com)
+- 📄 [VulnHub — chatME: Write-Up](https://alisalive.medium.com)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
@@ -196,5 +199,5 @@ Roadmap ────────────────────────
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:30363d&height=80&section=footer" width="100%"/>
 </div>
