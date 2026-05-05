@@ -33,7 +33,7 @@ class Hacker:
         self.location   = "Baku, Azerbaijan"
         self.focus      = ["Red Teaming", "Web Exploitation", "Tool Dev"]
         self.certs      = ["eJPTv2", "CRTA", "Web-RTA"]
-        self.next       = ["eCPPT", "CRTO", "AD-RTS", "OSCP"]
+        self.next       = ["CPTS", "CRTO", "OSCP"]
         self.ctf        = True
         self.bug_bounty = True
 
@@ -72,7 +72,6 @@ print(me)
 
 ![CPTS](https://img.shields.io/badge/🎯_CPTS-In_Progress-e3b341?style=for-the-badge&labelColor=0d1117)
 ![CRTO](https://img.shields.io/badge/🎯_CRTO-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
-![ADRTS](https://img.shields.io/badge/🎯_AD--RTS-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
 ![OSCP](https://img.shields.io/badge/🎯_OSCP-Final_Boss-f85149?style=for-the-badge&labelColor=0d1117)
 
 </div>
