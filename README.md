@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="100%" alt="banner"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Shikhali+Jamalzade+%7C+hack%2Fer;Offensive+Security+Researcher;Red+Team+%7C+Bug+Hunter+%7C+CTF+Player;Building+tools+that+break+things." alt="Typing SVG" />
   </a>
@@ -54,11 +50,11 @@ print(me)
 
 <div align="center">
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**🔴 GOD-S-EYE**](https://github.com/alisalive/GOD-S-EYE) | AI-powered web security scanner — CVE correlation, WAF detection, HTML reports | ![Stars](https://img.shields.io/github/stars/alisalive/GOD-S-EYE?style=flat&color=39d353&labelColor=0d1117) |
-| [**🟡 XSSSlayer**](https://github.com/alisalive/XSSSlayer) | Real-browser XSS scanner with WAF bypass & AI payload generation | ![Stars](https://img.shields.io/github/stars/alisalive/XSSSlayer?style=flat&color=39d353&labelColor=0d1117) |
-| [**🟢 CJ-Scanner**](https://github.com/alisalive/CJ-Scanner) | Multi-threaded professional Clickjacking vulnerability scanner | ![Stars](https://img.shields.io/github/stars/alisalive/CJ-Scanner?style=flat&color=39d353&labelColor=0d1117) |
+| Project | Description |
+|---------|-------------|
+| [**🔴 GOD-S-EYE**](https://github.com/alisalive/GOD-S-EYE) | AI-powered web security scanner — CVE correlation, WAF detection, HTML reports |
+| [**🟡 XSSSlayer**](https://github.com/alisalive/XSSSlayer) | Real-browser XSS scanner with WAF bypass & AI payload generation |
+| [**🟢 CJ-Scanner**](https://github.com/alisalive/CJ-Scanner) | Multi-threaded professional Clickjacking vulnerability scanner |
 
 </div>
 
@@ -118,7 +114,7 @@ print(me)
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alisalive/alisalive/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisalive&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=false&area_color=39d35320" />
 </div>
 
 ---
