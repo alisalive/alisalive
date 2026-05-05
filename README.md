@@ -160,8 +160,11 @@ Roadmap ────────────────────────
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alisalive&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisalive&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=8b949e"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alisalive&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&count_private=true&include_all_commits=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisalive&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=8b949e"/>
 </div>
 
 <div align="center">
