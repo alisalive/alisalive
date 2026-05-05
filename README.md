@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/alisalive/alisalive/refs/heads/main/robottt.gif" width="100%" alt="banner"/>
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0000,100:0d1117&height=220&section=header&text=ALISALIVE&fontSize=72&fontColor=8b0000&fontAlignY=55&desc=hack%20%2F%20build%20%2F%20repeat&descSize=16&descAlignY=75&descColor=5a0000&animation=fadeIn" width="100%"/>
 
 </div>
@@ -45,14 +50,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `$ cat /blog/latest_posts.txt`
-
-<!-- BLOG-POST-LIST:START -->
-- [Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss-20557ba7487d------2)
-- [VulnHub — Warzone: 3 &lpar;Exogen&rpar; Write-Up](https://alisalive.medium.com/vulnhub-warzone-3-exogen-write-up-3952499c8415?source=rss-20557ba7487d------2)
-- [VulnHub — chatME: Write-Up](https://alisalive.medium.com/vulnhub-chatme-write-up-286c39d27b4c?source=rss-20557ba7487d------2)
-<!-- BLOG-POST-LIST:END -->
 
 ## `$ cat profile.json`
 
