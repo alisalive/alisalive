@@ -1,43 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2818,100:0d1117&height=200&section=header&text=ALISALIVE&fontSize=80&fontColor=39d353&fontAlignY=55&desc=hack%20%2F%20build%20%2F%20repeat&descSize=16&descAlignY=75&descColor=484f58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0000,100:0d1117&height=220&section=header&text=%F0%9F%92%80%20ALISALIVE&fontSize=72&fontColor=8b0000&fontAlignY=55&desc=hack%20%2F%20build%20%2F%20repeat&descSize=16&descAlignY=75&descColor=484f58&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=800&color=39D353&center=true&vCenter=true&multiline=false&width=600&lines=root%40kali%3A~%24+whoami;Shikhali+Jamalzade+%7C+Offensive+Security;root%40kali%3A~%24+cat+%2Fetc%2Fmotto;%22hack+the+planet.+document+it+properly.%22;root%40kali%3A~%24+ls+%2Fskills%2F;web_exploitation%2F+active_directory%2F+tooldev%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=root%40kali%3A~%24+whoami;Shikhali+Jamalzade+%7C+Offensive+Security+Researcher;root%40kali%3A~%24+cat+%2Fetc%2Fmotto;%22hack+the+planet.+document+it+properly.%22;root%40kali%3A~%24+ls+%2Fskills%2F;web_exploitation%2F++active_directory%2F++tooldev%2F)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=alisalive&color=0d1117&style=flat-square&label=visitors&labelColor=0d1117&color=39d353"/>　
+<img src="https://komarev.com/ghpvc/?username=alisalive&style=flat-square&label=visitors&labelColor=0d1117&color=39d353"/>　
 <img src="https://img.shields.io/github/followers/alisalive?style=flat-square&color=39d353&labelColor=0d1117&logo=github&label=followers"/>
 
 </div>
 
 <br>
 
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗  ██████╗  ██████╗ ████████╗                           ║
-║   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝                           ║
-║   ██████╔╝██║   ██║██║   ██║   ██║                              ║
-║   ██╔══██╗██║   ██║██║   ██║   ██║                              ║
-║   ██║  ██║╚██████╔╝╚██████╔╝   ██║                              ║
-║   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝                              ║
-║                                                                  ║
-║   [ Shikhali Jamalzade ]  [ Baku, AZ ]  [ hack/er ]             ║
-║   [ Red Team ]  [ Bug Bounty ]  [ CTF ]  [ Tool Dev ]           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║    ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    ║
+║    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ║
+║    ███████║███████║██║     █████╔╝        ██║   ███████║█████╗      ║
+║    ██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝      ║
+║    ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗    ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ║
+║                      ___________                                      ║
+║                    /     hack    \                                    ║
+║                   |   /  build \  |                                   ║
+║                    \___repeat___/                                     ║
+║                                                                       ║
+║   > Shikhali Jamalzade   > Baku, AZ   > hack/er                      ║
+║   > Red Team             > Bug Bounty > CTF       > Tool Dev         ║
+║                                                   [SYSTEM: ONLINE]   ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <br>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -45,15 +51,16 @@
 
 ```json
 {
-  "name"     : "Shikhali Jamalzade",
-  "handle"   : "@alisalive",
-  "location" : "Baku, Azerbaijan 🇦🇿",
-  "focus"    : ["Offensive Security", "Red Teaming", "Tool Development"],
-  "certs"    : ["eJPTv2", "CRTA", "Web-RTA"],
-  "roadmap"  : ["eCPPT", "CRTO", "AD-RTS", "OSCP"],
-  "platforms": ["HackTheBox", "TryHackMe", "Bugcrowd"],
-  "currently": "Building tools that break things.",
-  "motto"    : "hack the planet. then document it properly."
+  "name"      : "Shikhali Jamalzade",
+  "handle"    : "@alisalive",
+  "location"  : "Baku, Azerbaijan 🇦🇿",
+  "focus"     : ["Offensive Security", "Red Teaming", "Tool Development"],
+  "certs"     : ["eJPTv2", "CRTA", "Web-RTA", "AD-RTS", "MCRTA"],
+  "roadmap"   : ["CPTS", "CRTO", "OSCP"],
+  "platforms" : ["HackTheBox", "TryHackMe", "Bugcrowd"],
+  "currently" : "Building tools that break things.",
+  "website"   : "https://alisalive.vercel.app",
+  "motto"     : "hack the planet. then document it properly."
 }
 ```
 
@@ -71,10 +78,11 @@
 
 ### 🔴 [GOD-S-EYE](https://github.com/alisalive/GOD-S-EYE)
 ```
-AI-powered recon & web security
-scanner. CVE correlation, WAF
-detection, tech fingerprinting,
-cookie analysis, HTML reports.
+AI-powered recon & web
+security scanner. CVE
+correlation, WAF detection,
+tech fingerprinting, HTML
+reports. WhatWeb killer.
 ```
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39d353)
 ![AI](https://img.shields.io/badge/AI_Powered-0d1117?style=flat-square&logo=openai&logoColor=39d353)
@@ -84,10 +92,12 @@ cookie analysis, HTML reports.
 
 ### 🟡 [XSSSlayer](https://github.com/alisalive/XSSSlayer)
 ```
-Real-browser XSS scanner with
-WAF bypass & AI-generated
-payload mutation. Playwright
-powered, headless execution.
+Real-browser XSS scanner
+with WAF bypass & AI-
+generated payload mutation.
+Playwright powered, headless
+execution. Finds what others
+miss.
 ```
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=e3b341)
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=e3b341)
@@ -100,7 +110,8 @@ powered, headless execution.
 Multi-threaded professional
 Clickjacking vulnerability
 scanner with detailed
-reporting capabilities.
+HTML reporting and bulk
+target support.
 ```
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=27c93f)
 ![Threads](https://img.shields.io/badge/Multi--Thread-0d1117?style=flat-square&logo=linux&logoColor=27c93f)
@@ -124,15 +135,13 @@ reporting capabilities.
 ![eJPTv2](https://img.shields.io/badge/eJPTv2-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
 ![CRTA](https://img.shields.io/badge/CRTA-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
 ![WebRTA](https://img.shields.io/badge/Web--RTA-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
+![ADRTS](https://img.shields.io/badge/AD--RTS-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
+![MCRTA](https://img.shields.io/badge/MCRTA-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
 
-### 🎯 Loading...
+### 💀 Loading...
 
-![eCPPT](https://img.shields.io/badge/eCPPT-IN_QUEUE-e3b341?style=for-the-badge&labelColor=1a1500&logo=hourglass&logoColor=e3b341)
+![CPTS](https://img.shields.io/badge/CPTS-IN_QUEUE-e3b341?style=for-the-badge&labelColor=1a1500&logo=hourglass&logoColor=e3b341)
 ![CRTO](https://img.shields.io/badge/CRTO-IN_QUEUE-e3b341?style=for-the-badge&labelColor=1a1500&logo=hourglass&logoColor=e3b341)
-![ADRTS](https://img.shields.io/badge/AD--RTS-IN_QUEUE-e3b341?style=for-the-badge&labelColor=1a1500&logo=hourglass&logoColor=e3b341)
-
-### 💀 Final Boss
-
 ![OSCP](https://img.shields.io/badge/OSCP-FINAL_BOSS-f85149?style=for-the-badge&labelColor=1a0000&logo=skull&logoColor=f85149)
 
 </div>
@@ -195,8 +204,11 @@ reporting capabilities.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shikhali_Jamalzade-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/shikhali-jamalzade)
-[![GitHub](https://img.shields.io/badge/GitHub-@alisalive-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/alisalive)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-alisalive.vercel.app-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353)](https://alisalive.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shikhali_Jamalzade-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/camalzads)
+[![Medium](https://img.shields.io/badge/Medium-@alisalive-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=0d1117)](https://alisalive.medium.com)
+[![Gmail](https://img.shields.io/badge/Gmail-camalzadss@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:camalzadss@gmail.com)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-alisalive-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF&labelColor=0d1117)](mailto:alisalive@proton.me)
 
 </div>
@@ -205,7 +217,7 @@ reporting capabilities.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 
 ```
 [ hack the planet. then document it properly. ]
