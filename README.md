@@ -49,6 +49,9 @@
 ## `$ cat /blog/latest_posts.txt`
 
 <!-- BLOG-POST-LIST:START -->
+- [Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss-20557ba7487d------2)
+- [VulnHub — Warzone: 3 &lpar;Exogen&rpar; Write-Up](https://alisalive.medium.com/vulnhub-warzone-3-exogen-write-up-3952499c8415?source=rss-20557ba7487d------2)
+- [VulnHub — chatME: Write-Up](https://alisalive.medium.com/vulnhub-chatme-write-up-286c39d27b4c?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## `$ cat profile.json`
