@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0000,100:0d1117&height=220&section=header&text=%F0%9F%92%80%20ALISALIVE&fontSize=72&fontColor=8b0000&fontAlignY=55&desc=hack%20%2F%20build%20%2F%20repeat&descSize=16&descAlignY=75&descColor=484f58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0000,100:0d1117&height=220&section=header&text=ALISALIVE&fontSize=72&fontColor=8b0000&fontAlignY=55&desc=hack%20%2F%20build%20%2F%20repeat&descSize=16&descAlignY=75&descColor=5a0000&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=root%40kali%3A~%24+whoami;Shikhali+Jamalzade+%7C+Offensive+Security+Researcher;root%40kali%3A~%24+cat+%2Fetc%2Fmotto;%22hack+the+planet.+document+it+properly.%22;root%40kali%3A~%24+ls+%2Fskills%2F;web_exploitation%2F++active_directory%2F++tooldev%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=700&lines=root%40kali%3A~%24+whoami;Shikhali+Jamalzade+%7C+Offensive+Security+Researcher;root%40kali%3A~%24+cat+%2Fetc%2Fmotto;%22hack+the+planet.+then+document+it+properly.%22;root%40kali%3A~%24+ls+%2Fskills%2F;web_exploitation%2F++active_directory%2F++tooldev%2F)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,23 +22,22 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║    ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗    ║
-║    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝    ║
-║    ███████║███████║██║     █████╔╝        ██║   ███████║█████╗      ║
-║    ██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝      ║
-║    ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗    ║
-║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝    ║
-║                      ___________                                      ║
-║                    /     hack    \                                    ║
-║                   |   /  build \  |                                   ║
-║                    \___repeat___/                                     ║
-║                                                                       ║
-║   > Shikhali Jamalzade   > Baku, AZ   > hack/er                      ║
-║   > Red Team             > Bug Bounty > CTF       > Tool Dev         ║
-║                                                   [SYSTEM: ONLINE]   ║
-╚═══════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗        ║
+║    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝        ║
+║    ███████║███████║██║     █████╔╝        ██║   ███████║█████╗           ║
+║    ██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝           ║
+║    ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗        ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝        ║
+║                                                                           ║
+║   ┌─────────────────────────────────────────────────────────────────┐    ║
+║   │  > Shikhali Jamalzade    > Baku, Azerbaijan    > hack/er        │    ║
+║   │  > Red Teaming           > Bug Bounty          > CTF Player     │    ║
+║   │  > Tool Development      > Offensive Security                   │    ║
+║   │                                          [ SYSTEM: ONLINE ]     │    ║
+║   └─────────────────────────────────────────────────────────────────┘    ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -93,10 +92,9 @@ reports. WhatWeb killer.
 ### 🟡 [XSSSlayer](https://github.com/alisalive/XSSSlayer)
 ```
 Real-browser XSS scanner
-with WAF bypass & AI-
-generated payload mutation.
-Playwright powered, headless
-execution. Finds what others
+with WAF bypass & AI
+payload mutation. Playwright
+powered. Finds what others
 miss.
 ```
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=e3b341)
@@ -138,7 +136,7 @@ target support.
 ![ADRTS](https://img.shields.io/badge/AD--RTS-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
 ![MCRTA](https://img.shields.io/badge/MCRTA-ACHIEVED-39d353?style=for-the-badge&labelColor=0a2010&logo=target&logoColor=39d353)
 
-### 💀 Loading...
+### 🎯 Loading...
 
 ![CPTS](https://img.shields.io/badge/CPTS-IN_QUEUE-e3b341?style=for-the-badge&labelColor=1a1500&logo=hourglass&logoColor=e3b341)
 ![CRTO](https://img.shields.io/badge/CRTO-IN_QUEUE-e3b341?style=for-the-badge&labelColor=1a1500&logo=hourglass&logoColor=e3b341)
@@ -204,12 +202,11 @@ target support.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-alisalive.vercel.app-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353)](https://alisalive.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alisalive.vercel.app-39d353?style=for-the-badge&labelColor=0d1117)](https://alisalive.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shikhali_Jamalzade-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/camalzads)
-[![Medium](https://img.shields.io/badge/Medium-@alisalive-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=0d1117)](https://alisalive.medium.com)
-[![Gmail](https://img.shields.io/badge/Gmail-camalzadss@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:camalzadss@gmail.com)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-alisalive-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF&labelColor=0d1117)](mailto:alisalive@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/camalzads)
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff)](https://alisalive.medium.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:camalzadss@gmail.com)
 
 </div>
 
