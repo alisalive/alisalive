@@ -70,7 +70,6 @@ print(me)
 
 <br/>
 
-![eCPPT](https://img.shields.io/badge/🎯_eCPPT-In_Progress-e3b341?style=for-the-badge&labelColor=0d1117)
 ![CRTO](https://img.shields.io/badge/🎯_CRTO-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
 ![ADRTS](https://img.shields.io/badge/🎯_AD--RTS-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
 ![OSCP](https://img.shields.io/badge/🎯_OSCP-Final_Boss-f85149?style=for-the-badge&labelColor=0d1117)
