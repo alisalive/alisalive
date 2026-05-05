@@ -100,10 +100,10 @@ print(me)
 
 ## 📊 Stats
 
-<div align="center">username=alisalive&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=39d353&title_color=39d353&text_color=8b949e&hide_border=false&count_private=true" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alisalive&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=39d353&title_color=39d353&text_color=8b949e&hide_border=false&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisalive&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=39d353&text_color=8b949e&hide_border=false" />
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alisalive&theme=github-dark-blue&background=0d1117&border=30363d&stroke=39d353&ring=39d353&fire=f85149&currStreakNum=39d353&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" />
 </div>
