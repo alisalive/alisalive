@@ -69,7 +69,7 @@ print(me)
 ![WebRTA](https://img.shields.io/badge/✅_Web--RTA-CyberWarFare_Labs-39d353?style=for-the-badge&labelColor=0d1117)
 
 <br/>
-
+![CPTS](https://img.shields.io/badge/🎯_CPTS-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
 ![CRTO](https://img.shields.io/badge/🎯_CRTO-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
 ![ADRTS](https://img.shields.io/badge/🎯_AD--RTS-Planned-e3b341?style=for-the-badge&labelColor=0d1117)
 ![OSCP](https://img.shields.io/badge/🎯_OSCP-Final_Boss-f85149?style=for-the-badge&labelColor=0d1117)
