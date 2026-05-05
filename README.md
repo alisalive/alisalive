@@ -123,9 +123,9 @@ print(me)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shikhali-jamalzade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/camalzads)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/alisalive)
-[![Email](https://img.shields.io/badge/ProtonMail-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:alisalive@proton.me)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=6D4AFF)](mailto:camalzadss@gmail.com)
 
 </div>
 
