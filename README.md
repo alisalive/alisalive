@@ -151,9 +151,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [CRTA Exam Writeup — Passed | CyberWarFare Lab](https://alisalive.medium.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss-20557ba7487d------2)
 - [TryHackMe — Blog CTF | Full Write-Up](https://alisalive.medium.com/tryhackme-blog-ctf-full-write-up-5220fa169761?source=rss-20557ba7487d------2)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://alisalive.medium.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss-20557ba7487d------2)
-- [TryHackMe — Linux Agency | Complete Write-Up &amp; Walkthrough](https://alisalive.medium.com/tryhackme-linux-agency-complete-write-up-walkthrough-82a20bd23d67?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
