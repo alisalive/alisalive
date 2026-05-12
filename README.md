@@ -151,9 +151,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [eJPT v2 — My First Certification, Passed in 8 Hours. Here’s Everything You Need to Know.](https://alisalive.medium.com/ejpt-v2-my-first-certification-passed-in-8-hours-heres-everything-you-need-to-know-70065bbf8795?source=rss-20557ba7487d------2)
+- [Web-RTA Exam Writeup — Passed | CyberWarFare Labs](https://alisalive.medium.com/web-rta-exam-writeup-passed-cyberwarfare-labs-20c6bd74e675?source=rss-20557ba7487d------2)
 - [CRTA Exam Writeup — Passed | CyberWarFare Lab](https://alisalive.medium.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss-20557ba7487d------2)
-- [TryHackMe — Blog CTF | Full Write-Up](https://alisalive.medium.com/tryhackme-blog-ctf-full-write-up-5220fa169761?source=rss-20557ba7487d------2)
-- [TryHackMe — Mr. Robot CTF | Full Write-Up](https://alisalive.medium.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
