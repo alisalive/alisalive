@@ -151,9 +151,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Pentested a Real CRM System and Found 4 Critical Vulnerabilities — Here’s the Full Attack Chain](https://alisalive.medium.com/i-pentested-a-real-crm-system-and-found-4-critical-vulnerabilities-heres-the-full-attack-chain-98c030a57ab1?source=rss-20557ba7487d------2)
+- [VulnHub — Shenron: 1 | Full Walkthrough](https://alisalive.medium.com/vulnhub-shenron-1-full-walkthrough-05d09a54ab77?source=rss-20557ba7487d------2)
 - [eJPT v2 — My First Certification, Passed in 8 Hours. Here’s Everything You Need to Know.](https://alisalive.medium.com/ejpt-v2-my-first-certification-passed-in-8-hours-heres-everything-you-need-to-know-70065bbf8795?source=rss-20557ba7487d------2)
-- [Web-RTA Exam Writeup — Passed | CyberWarFare Labs](https://alisalive.medium.com/web-rta-exam-writeup-passed-cyberwarfare-labs-20c6bd74e675?source=rss-20557ba7487d------2)
-- [CRTA Exam Writeup — Passed | CyberWarFare Lab](https://alisalive.medium.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
