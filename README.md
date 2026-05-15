@@ -151,9 +151,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [VulnHub — sunset: dawn | Full Walkthrough](https://alisalive.medium.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss-20557ba7487d------2)
+- [VulnHub — sunset: twilight | Full Walkthrough](https://alisalive.medium.com/vulnhub-sunset-twilight-full-walkthrough-8be4a4454dfb?source=rss-20557ba7487d------2)
 - [I Pentested a Real CRM System and Found 4 Critical Vulnerabilities — Here’s the Full Attack Chain](https://alisalive.medium.com/i-pentested-a-real-crm-system-and-found-4-critical-vulnerabilities-heres-the-full-attack-chain-98c030a57ab1?source=rss-20557ba7487d------2)
-- [VulnHub — Shenron: 1 | Full Walkthrough](https://alisalive.medium.com/vulnhub-shenron-1-full-walkthrough-05d09a54ab77?source=rss-20557ba7487d------2)
-- [eJPT v2 — My First Certification, Passed in 8 Hours. Here’s Everything You Need to Know.](https://alisalive.medium.com/ejpt-v2-my-first-certification-passed-in-8-hours-heres-everything-you-need-to-know-70065bbf8795?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
