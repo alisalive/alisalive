@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Offensive+Security+Researcher+%7C+Red+Teamer;Web+Exploitation+%7C+Active+Directory+Attacks;Building+tools+that+automate+the+breaking;eJPTv2+%E2%80%A2+CRTA+%E2%80%A2+Web-RTA+%E2%80%A2+AD-RTS+%E2%80%A2+MCRTA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Offensive+Security+Researcher+%7C+Red+Teamer;Web+Exploitation+%7C+Active+Directory+Attacks;Building+tools+that+automate+the+breaking;GOD'S+EYE+%7C+XSSSlayer+%7C+CJ-Scanner+%7C+RedSEC;eJPTv2+%E2%80%A2+CRTA+%E2%80%A2+Web-RTA+%E2%80%A2+AD-RTS+%E2%80%A2+MCRTA)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,7 +44,7 @@ On the research side, I hunt bugs on **Bugcrowd**, play CTFs on **HackTheBox** a
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **[GOD-S-EYE](https://github.com/alisalive/GOD-S-EYE)**
 
@@ -53,7 +53,7 @@ AI-powered web recon & security scanner. Correlates CVEs against detected techno
 `Python` `AI` `Recon` `CVE`
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **[XSSSlayer](https://github.com/alisalive/XSSSlayer)**
 
@@ -62,13 +62,22 @@ Real-browser XSS scanner powered by Playwright. Bypasses WAFs through AI-generat
 `Python` `Playwright` `WAF Bypass` `XSS`
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **[CJ-Scanner](https://github.com/alisalive/CJ-Scanner)**
 
 Multi-threaded professional Clickjacking vulnerability scanner. Handles bulk target lists, detects missing frame-busting headers with precision, and outputs detailed HTML reports ready for client delivery.
 
 `Python` `Multi-thread` `Clickjacking`
+
+</td>
+<td width="25%" valign="top">
+
+**[RedSEC](https://github.com/alisalive/RedSEC)**
+
+Red team log aggregation and correlation tool. Parses output from 9 offensive tools, maps every event to MITRE ATT&CK, scores detection risk per event, and exports attack chains as SEC-compatible rules. Built so the report writes itself.
+
+`Python` `MITRE ATT&CK` `SEC` `Red Team`
 
 </td>
 </tr>
@@ -153,30 +162,8 @@ Roadmap ────────────────────────
 <!-- BLOG-POST-LIST:START -->
 - [VulnHub — sunset: dawn | Full Walkthrough](https://alisalive.medium.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss-20557ba7487d------2)
 - [VulnHub — sunset: twilight | Full Walkthrough](https://alisalive.medium.com/vulnhub-sunset-twilight-full-walkthrough-8be4a4454dfb?source=rss-20557ba7487d------2)
-- [I Pentested a Real CRM System and Found 4 Critical Vulnerabilities — Here’s the Full Attack Chain](https://alisalive.medium.com/i-pentested-a-real-crm-system-and-found-4-critical-vulnerabilities-heres-the-full-attack-chain-98c030a57ab1?source=rss-20557ba7487d------2)
+- [I Pentested a Real CRM System and Found 4 Critical Vulnerabilities — Here's the Full Attack Chain](https://alisalive.medium.com/i-pentested-a-real-crm-system-and-found-4-critical-vulnerabilities-heres-the-full-attack-chain-98c030a57ab1?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
----
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisalive&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&count_private=true&include_all_commits=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisalive&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=8b949e"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alisalive&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisalive&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff10&hide_border=false&radius=4"/>
-</div>
 
 <br/>
 
