@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Break Out The Cage | Full Write-Up](https://alisalive.medium.com/tryhackme-break-out-the-cage-full-write-up-6de0702d0e01?source=rss-20557ba7487d------2)
+- [TryHackMe — Checkmate | Full Walkthrough](https://alisalive.medium.com/tryhackme-checkmate-full-walkthrough-49a418a8e956?source=rss-20557ba7487d------2)
 - [VulnHub — sunset: dawn | Full Walkthrough](https://alisalive.medium.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss-20557ba7487d------2)
-- [VulnHub — sunset: twilight | Full Walkthrough](https://alisalive.medium.com/vulnhub-sunset-twilight-full-walkthrough-8be4a4454dfb?source=rss-20557ba7487d------2)
-- [I Pentested a Real CRM System and Found 4 Critical Vulnerabilities — Here’s the Full Attack Chain](https://alisalive.medium.com/i-pentested-a-real-crm-system-and-found-4-critical-vulnerabilities-heres-the-full-attack-chain-98c030a57ab1?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
