@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Biohazard | Full Write-Up](https://alisalive.medium.com/tryhackme-biohazard-full-write-up-2ef70b2b486d?source=rss-20557ba7487d------2)
 - [TryHackMe — Wonderland | Full Walkthrough](https://alisalive.medium.com/tryhackme-wonderland-full-walkthrough-1df78140c737?source=rss-20557ba7487d------2)
 - [TryHackMe — Break Out The Cage | Full Write-Up](https://alisalive.medium.com/tryhackme-break-out-the-cage-full-write-up-6de0702d0e01?source=rss-20557ba7487d------2)
-- [TryHackMe — Checkmate | Full Walkthrough](https://alisalive.medium.com/tryhackme-checkmate-full-walkthrough-49a418a8e956?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
