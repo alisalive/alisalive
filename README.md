@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Found 3 Critical Vulnerabilities in an AI-Powered SOC Platform — Full Attack Chain](https://alisalive.medium.com/i-found-3-critical-vulnerabilities-in-an-ai-powered-soc-platform-full-attack-chain-e37a5733002e?source=rss-20557ba7487d------2)
 - [RedSEC](https://alisalive.medium.com/redsec-d94694ddd4ac?source=rss-20557ba7487d------2)
 - [TryHackMe — Biohazard | Full Write-Up](https://alisalive.medium.com/tryhackme-biohazard-full-write-up-2ef70b2b486d?source=rss-20557ba7487d------2)
-- [TryHackMe — Wonderland | Full Walkthrough](https://alisalive.medium.com/tryhackme-wonderland-full-walkthrough-1df78140c737?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
