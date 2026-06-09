@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Fable 5: The First Mythos-Class Model the World Gets to Use](https://alisalive.medium.com/claude-fable-5-the-first-mythos-class-model-the-world-gets-to-use-be59257e6598?source=rss-20557ba7487d------2)
 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss-20557ba7487d------2)
 - [I Found 3 Critical Vulnerabilities in an AI-Powered SOC Platform — Full Attack Chain](https://alisalive.medium.com/i-found-3-critical-vulnerabilities-in-an-ai-powered-soc-platform-full-attack-chain-e37a5733002e?source=rss-20557ba7487d------2)
-- [RedSEC](https://alisalive.medium.com/redsec-d94694ddd4ac?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
