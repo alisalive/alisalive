@@ -160,7 +160,7 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [GreatXML: How a Setup File Unlocked BitLocker — And Why Microsoft Can’t Stop This Researcher](https://infosecwriteups.com/greatxml-how-a-setup-file-unlocked-bitlocker-and-why-microsoft-cant-stop-this-researcher-674d42c00417?source=rss-20557ba7487d------2)
+- [GreatXML: How a Setup File Unlocked BitLocker — And Why Microsoft Can’t Stop This Researcher](https://alisalive.medium.com/greatxml-how-a-setup-file-unlocked-bitlocker-and-why-microsoft-cant-stop-this-researcher-674d42c00417?source=rss-20557ba7487d------2)
 - [Claude Fable 5: The First Mythos-Class Model the World Gets to Use](https://alisalive.medium.com/claude-fable-5-the-first-mythos-class-model-the-world-gets-to-use-be59257e6598?source=rss-20557ba7487d------2)
 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
