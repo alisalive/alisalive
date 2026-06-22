@@ -160,7 +160,7 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [MCRTA Exam Walkthrough — Multi-Cloud Red Teaming on AWS, Azure &amp; GCP](https://alisalive.medium.com/mcrta-exam-walkthrough-multi-cloud-red-teaming-on-aws-azure-gcp-6660e6c02d75?source=rss-20557ba7487d------2)
+- [MCRTA Exam Walkthrough — Multi-Cloud Red Teaming on AWS, Azure &amp; GCP](https://infosecwriteups.com/mcrta-exam-walkthrough-multi-cloud-red-teaming-on-aws-azure-gcp-6660e6c02d75?source=rss-20557ba7487d------2)
 - [7 Critical. 4 High. Zero Credentials. Full AI Chatbot Pentest.](https://infosecwriteups.com/7-critical-4-high-zero-credentials-full-ai-chatbot-pentest-22a05b760381?source=rss-20557ba7487d------2)
 - [GreatXML: How a Setup File Unlocked BitLocker — And Why Microsoft Can’t Stop This Researcher](https://alisalive.medium.com/greatxml-how-a-setup-file-unlocked-bitlocker-and-why-microsoft-cant-stop-this-researcher-674d42c00417?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
