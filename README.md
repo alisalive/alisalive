@@ -161,8 +161,8 @@ Roadmap ────────────────────────
 
 <!-- BLOG-POST-LIST:START -->
 - [Beating LinkedIn’s Mini Sudoku in 3 Seconds: A Parameter Tampering Case Study](https://infosecwriteups.com/beating-linkedins-mini-sudoku-in-3-seconds-a-parameter-tampering-case-study-9261b57873a8?source=rss-20557ba7487d------2)
-- [YellowKey and GreenPlasma: How a Grudge Against Microsoft Broke BitLocker and Gave Attackers SYSTEM](https://alisalive.medium.com/yellowkey-and-greenplasma-how-a-grudge-against-microsoft-broke-bitlocker-and-gave-attackers-system-8ea439aed2ea?source=rss-20557ba7487d------2)
 - [MCRTA Exam Walkthrough — Multi-Cloud Red Teaming on AWS, Azure &amp; GCP](https://infosecwriteups.com/mcrta-exam-walkthrough-multi-cloud-red-teaming-on-aws-azure-gcp-6660e6c02d75?source=rss-20557ba7487d------2)
+- [7 Critical. 4 High. Zero Credentials. Full AI Chatbot Pentest.](https://infosecwriteups.com/7-critical-4-high-zero-credentials-full-ai-chatbot-pentest-22a05b760381?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
