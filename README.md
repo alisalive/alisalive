@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [API-RTA Exam Walkthrough — Passed | CyberWarFare Labs](https://infosecwriteups.com/api-rta-exam-walkthrough-passed-cyberwarfare-labs-9e4beeb3fdf7?source=rss-20557ba7487d------2)
 - [Beating LinkedIn’s Mini Sudoku in 3 Seconds: A Parameter Tampering Case Study](https://infosecwriteups.com/beating-linkedins-mini-sudoku-in-3-seconds-a-parameter-tampering-case-study-9261b57873a8?source=rss-20557ba7487d------2)
 - [MCRTA Exam Walkthrough — Multi-Cloud Red Teaming on AWS, Azure &amp; GCP](https://infosecwriteups.com/mcrta-exam-walkthrough-multi-cloud-red-teaming-on-aws-azure-gcp-6660e6c02d75?source=rss-20557ba7487d------2)
-- [7 Critical. 4 High. Zero Credentials. Full AI Chatbot Pentest.](https://infosecwriteups.com/7-critical-4-high-zero-credentials-full-ai-chatbot-pentest-22a05b760381?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
