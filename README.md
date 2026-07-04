@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Found an Unauthenticated Attachment Disclosure Bug in a WordPress Support Plugin — and a…](https://infosecwriteups.com/i-found-an-unauthenticated-attachment-disclosure-bug-in-a-wordpress-support-plugin-and-a-435e86868d04?source=rss-20557ba7487d------2)
 - [Certified AD Red Team Specialist &lpar;AD-RTS&rpar;: Full Exam Write-Up](https://infosecwriteups.com/certified-ad-red-team-specialist-ad-rts-full-exam-write-up-40f5e9450703?source=rss-20557ba7487d------2)
 - [I Found an Unauthenticated File Disclosure Bug in a WordPress Plugin — Then Found Out I Was a Few…](https://infosecwriteups.com/i-found-an-unauthenticated-file-disclosure-bug-in-a-wordpress-plugin-then-found-out-i-was-a-few-8a2d5ed61556?source=rss-20557ba7487d------2)
-- [API-RTA Exam Walkthrough — Passed | CyberWarFare Labs](https://infosecwriteups.com/api-rta-exam-walkthrough-passed-cyberwarfare-labs-9e4beeb3fdf7?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
