@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers](https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss-20557ba7487d------2)
 - [ReadPEAS: I Was Tired of Reading LinPEAS Output, So I Built a Tool That Reads It For Me](https://alisalive.medium.com/readpeas-i-was-tired-of-reading-linpeas-output-so-i-built-a-tool-that-reads-it-for-me-de7008bbe426?source=rss-20557ba7487d------2)
 - [I Found an Unauthenticated Attachment Disclosure Bug in a WordPress Support Plugin — and a…](https://infosecwriteups.com/i-found-an-unauthenticated-attachment-disclosure-bug-in-a-wordpress-support-plugin-and-a-435e86868d04?source=rss-20557ba7487d------2)
-- [Certified AD Red Team Specialist &lpar;AD-RTS&rpar;: Full Exam Write-Up](https://infosecwriteups.com/certified-ad-red-team-specialist-ad-rts-full-exam-write-up-40f5e9450703?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
