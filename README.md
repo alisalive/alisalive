@@ -160,9 +160,9 @@ Roadmap ────────────────────────
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss-20557ba7487d------2)
+- [Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…](https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss-20557ba7487d------2)
+- [How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss-20557ba7487d------2)
 - [How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers](https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss-20557ba7487d------2)
-- [ReadPEAS: I Was Tired of Reading LinPEAS Output, So I Built a Tool That Reads It For Me](https://alisalive.medium.com/readpeas-i-was-tired-of-reading-linpeas-output-so-i-built-a-tool-that-reads-it-for-me-de7008bbe426?source=rss-20557ba7487d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
